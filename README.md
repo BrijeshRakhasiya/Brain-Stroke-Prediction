@@ -40,7 +40,7 @@ To develop an ML-based predictive system that identifies patients at risk of hav
 | Random Forest           | 0.9393    | 0.0000   | 0.0000   | 0.0000    |
 | Decision Tree           | 0.9168    | 0.1905   | 0.2326   | 0.1613    |
 
-> ✅ **XGBoost Classifier** delivered the most balanced F1 Score among all models.
+> ✅ **Logistic Regressionr** delivered the most balanced F1 Score among all models.
 
 ---
 
